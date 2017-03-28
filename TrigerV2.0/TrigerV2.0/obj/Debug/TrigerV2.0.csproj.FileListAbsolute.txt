@@ -1,0 +1,8 @@
+C:\Users\aleksandrs.mihejevs\Desktop\remake\TrigerV2.0\TrigerV2.0\bin\Debug\TrigerV2.0.exe.config
+C:\Users\aleksandrs.mihejevs\Desktop\remake\TrigerV2.0\TrigerV2.0\obj\Debug\TrigerV2.0.csprojResolveAssemblyReference.cache
+C:\Users\aleksandrs.mihejevs\Desktop\remake\TrigerV2.0\TrigerV2.0\bin\Debug\TrigerV2.0.exe
+C:\Users\aleksandrs.mihejevs\Desktop\remake\TrigerV2.0\TrigerV2.0\bin\Debug\TrigerV2.0.pdb
+C:\Users\aleksandrs.mihejevs\Desktop\remake\TrigerV2.0\TrigerV2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aleksandrs.mihejevs\Desktop\remake\TrigerV2.0\TrigerV2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aleksandrs.mihejevs\Desktop\remake\TrigerV2.0\TrigerV2.0\obj\Debug\TrigerV2.0.exe
+C:\Users\aleksandrs.mihejevs\Desktop\remake\TrigerV2.0\TrigerV2.0\obj\Debug\TrigerV2.0.pdb

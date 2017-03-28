@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrigerV2.0", "TrigerV2.0\TrigerV2.0.csproj", "{2908517F-2FD2-40D9-8ABA-E25E24F89669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2908517F-2FD2-40D9-8ABA-E25E24F89669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2908517F-2FD2-40D9-8ABA-E25E24F89669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2908517F-2FD2-40D9-8ABA-E25E24F89669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2908517F-2FD2-40D9-8ABA-E25E24F89669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
